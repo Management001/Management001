@@ -1,6 +1,32 @@
-### Hi there 👋
+## Introduction
+
+Undergraduate student at [smart networking lab](https://sites.google.com/view/smart-networking), Chosun University (2023.4-).
 
 <!--
+
+Mostly interested in computational chemistry, computer & software engineering. Also working for applications of machine learning (especially deep neural nets) in chemistry.
+
+## Preferred Languages
+
+For programming languages,
+
+- Python3
+- C/C++
+- Bash/zsh (some)
+
+For natural languages,
+
+- Korean (native)
+- English
+
+## Educational Backgrounds
+
+- B.S. in Chemisty and Computational Sciences, SNU (Summa cum Laude).
+
+-->
+<!--
+### Hi there 👋
+
 **Management001/Management001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
