@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2313E3F7&title_bg=%233B3535&icon=json.svg&icon_color=%23E7E7E7&title=Jeongtae+Kang%27s+Blog&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Introduction
 
 Undergraduate student at [smart networking lab](https://sites.google.com/view/smart-networking), Chosun University (2023.4-).
