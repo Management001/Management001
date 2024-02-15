@@ -1,9 +1,5 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkangjeongtae.com&count_bg=%2326DFFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Jeongtae+Kang%27s+Blog&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## Introduction
-
-Undergraduate student at [smart networking lab](https://sites.google.com/view/smart-networking), Chosun University (2023.4-).
-
+  Undergraduate student at [smart networking lab](https://sites.google.com/view/smart-networking), Chosun University (2023.4-).
 
 <h2 align="center"><b> Tech Stack </b></h3>
 <p align="center">
@@ -15,8 +11,6 @@ Undergraduate student at [smart networking lab](https://sites.google.com/view/sm
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
-
-
 
 <!--
 
