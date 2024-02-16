@@ -17,7 +17,7 @@
 .
 
 
-### Preferred programming Languages
+## Preferred programming Languages
 
 .
 .
@@ -25,7 +25,7 @@
 .
 .
 
-### Preferred programming Frameworks:
+## Preferred programming Frameworks:
 
 .
 .
@@ -33,7 +33,7 @@
 .
 .
 
-### Educational Backgrounds:
+## Educational Backgrounds:
 
 .
 .
