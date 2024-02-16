@@ -3,7 +3,6 @@
 
 
 
-https://github.com/Management001/Management001/assets/44454495/f3bc1a12-1196-4052-aa74-65274e375ec4
 
 
 
