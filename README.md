@@ -1,49 +1,6 @@
 ## Introduction:
   Undergraduate student at [smart networking lab](https://sites.google.com/view/smart-networking), Chosun University (2023.4-).
 
-.
-.
-.
-.
-.
-
-
-## Recent projects:
-
-.
-.
-.
-.
-.
-
-
-## Preferred programming Languages
-
-.
-.
-.
-.
-.
-
-## Preferred programming Frameworks:
-
-.
-.
-.
-.
-.
-
-## Educational Backgrounds:
-
-.
-.
-.
-.
-.
-
----
-
-
 <h2 align="center"><b> Tech Stack </b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
