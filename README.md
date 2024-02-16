@@ -2,11 +2,8 @@
   Undergraduate student at [smart networking lab](https://sites.google.com/view/smart-networking), Chosun University (2023.4-).
 
 
-<p align="center">
 <div><img src="data:image/svg+xml,%3Csvg width='1' height='560' xmlns='http://www.w3.org/2000/svg'%3E%3C/svg%3E" /></div>
-![](https://myreadme.vercel.app/api/embed/Management001?panels=userstatistics,toplanguages,commitgraph,toprepositories)
-</div>
-</p>
+![](https://myreadme.vercel.app/api/embed/ysw421?panels=userstatistics,toplanguages,commitgraph,toprepositories)
 
 
 <h2 align="center"><b> Tech Stack </b></h3>
