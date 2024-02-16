@@ -2,11 +2,6 @@
   Undergraduate student at [smart networking lab](https://sites.google.com/view/smart-networking), Chosun University (2023.4-).
 
 <h2 align="center"><b> Tech Stack </b></h3>
-
-<p align="center">
-  ![download](https://github.com/Management001/Management001/assets/44454495/96d41349-ad43-4833-a98a-6d1ef172f349)
-</p>
-
 <p align="center">
   
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
