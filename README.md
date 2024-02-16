@@ -1,23 +1,17 @@
 ## Introduction:
   Undergraduate student at [smart networking lab](https://sites.google.com/view/smart-networking), Chosun University (2023.4-).
-  
-___
+
 
 ## Recent projects:
 
-___
 
 ## Preferred programming Languages
 
-___
 
-#### Preferred programming Frameworks:
+## Preferred programming Frameworks:
 
-___
 
-#### Educational Backgrounds:
-
-___
+## Educational Backgrounds:
 
 
 
