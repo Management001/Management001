@@ -1,35 +1,27 @@
-자기통제 - Discipline
-
-
-	
-	Focus	목표 달성을 위한 집중력
- 
-	Transformation	변화와 성장의 핵심
- | **Letter** | **Word**         | **고유 의미 축 요약**               |
-| ---------- | ---------------- | ---------------------------- |
-| A          | **Aspiration**   | 이상과 목표를 향한 내면의 동기, 야망        |
-| B          | **Breakthrough** | 문제를 돌파하거나 새로운 국면을 여는 전환점     |
-| C          | **Clarity**      | 생각, 목표, 방향성에 대한 명확성          |
-| D          | **Dedication**   | 한 분야에 몰입하고 헌신하는 태도           |
-| E          | **Exploration**  | 새로운 영역을 탐험하려는 적극적인 시도        |
-| F          | **Flow**         | 몰입 상태, 자연스럽고 창의적인 생산성의 리듬    |
-| G          | **Growth**       | 내면, 지식, 경험 등에서의 실질적 확장과 진보   |
-| H          | **Humility**     | 스스로를 낮추며 배움과 관계를 존중하는 자세     |
-| I          | **Ingenuity**    | 문제 해결을 위한 창의성과 기발함           |
-| J          | **Judgment**     | 정확한 판단력과 균형 잡힌 사고            |
-| K          | **Keenness**     | 예리함, 기회나 정보에 대한 민감하고 날카로운 통찰 |
-| L          | **Liberation**   | 편견과 한계에서 벗어나는 정신적·사고적 자유     |
-| M          | **Mastery**      | 기술이나 개념에 대한 깊은 숙련도와 완성도      |
-| N          | **Novelty**      | 새로움, 기존 틀에서 벗어난 참신함          |
-| O          | **Objectivity**  | 감정이 아닌 사실에 기반한 사고와 판단        |
-| P          | **Perseverance** | 어려움을 견디고 끝까지 밀고 나가는 끈기       |
-| Q          | **Questioning**  | 비판적 사고의 시작, 당연함을 의심하는 힘      |
-| R          | **Resilience**   | 실패나 충격 후에 다시 일어나는 회복 탄력성     |
-| S          | **Synergy**      | 협업이나 요소 간의 상호작용을 통한 시너지 효과   |
-| T          | **Timing**       | 행동이나 결정의 적절한 순간을 아는 능력       |
-| U          | **Uniqueness**   | 자신만의 차별성과 고유한 색깔             |
-| V          | **Validation**   | 외부로부터 또는 내면적으로 확인받는 가치와 인정   |
-| W          | **Wonder**       | 세상에 대한 경이로움과 감탄, 창의의 시작점     |
-| X          | **eXecution**    | 아이디어나 계획을 실제로 실행에 옮기는 힘      |
-| Y          | **Yield**        | 결과물, 노력에 따른 수확 또는 산출물        |
-| Z          | **Zenith**       | 정점, 절정에 도달한 상태               |
+	Letter	Word	의미 요약
+	A	Aspiration	열망, 높은 목표를 향한 동기
+	B	Belief	신념, 자신 또는 세상에 대한 확신
+	C	Curiosity	학습의 원동력이 되는 호기심
+	D	Discipline	자기통제, 지속적 노력의 근간
+	E	Empathy	타인의 감정을 이해하고 존중하는 능력
+	F	Focus	목표 달성을 위한 집중력
+	G	Gratitude	감사함을 느끼고 표현하는 태도
+	H	Hope	미래에 대한 긍정적 믿음
+	I	Insight	깊이 있는 통찰, 사물의 본질을 꿰뚫는 이해
+	J	Journey	배움과 성장은 과정 그 자체
+	K	Knowledge	경험과 학습을 통해 얻는 정보와 이해
+	L	Legacy	후세에 남길 가치와 영향
+	M	Meaning	삶이나 목표의 본질적 의미
+	N	Nurture	자신과 타인을 성장시키는 양육적 태도
+	O	Opportunity	성장과 발전의 기회를 인식하고 활용함
+	P	Purpose	존재와 행동의 이유, 방향성
+	Q	Questioning	깊이 있는 사고의 시작, 의문을 던지는 습관
+	R	Reflection	스스로를 돌아보며 배우는 과정
+	S	Self-awareness	자아 인식, 자기 자신을 객관적으로 바라보는 힘
+	T	Transformation	변화와 성장의 핵심
+	U	Understanding	깊이 있는 이해와 포용
+	V	Vision	장기적인 목표와 이상
+	W	Wisdom	경험과 지식을 통해 얻은 삶의 지혜
+	X	eXperience	체험을 통한 실질적 학습과 깨달음
+	Y	Yearning	더 나은 삶을 향한 갈망
+	Z	Zen	마음의 평온과 통찰을 중시하는 깨달음의 경지
